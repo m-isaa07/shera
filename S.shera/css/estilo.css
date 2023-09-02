@@ -6,7 +6,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url(../imagens/shera/fundo.jpg);
+    background-image: url(..S.shera/imagens/shera/fundo.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
