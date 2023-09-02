@@ -7,7 +7,6 @@ personagem.forEach((personagem) => {
         window.scrollTo({top: 0, behavior: 'smooth'});
       }
 
-
 const personagemSelecionado = document.querySelector ('.selecionado');
 personagemSelecionado.classList.remove('selecionado')
 
